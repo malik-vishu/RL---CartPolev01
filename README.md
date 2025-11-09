@@ -91,18 +91,6 @@ http://localhost:8000/videos/seed_val_42/dqn_cartpole_seed_42.mp4
 
 ---
 
-## 📈 Example Results
-
-| Seed | Mean Reward | Std Reward |
-|------|--------------|------------|
-| 0    | 498.10       | 3.95       |
-| 7    | 497.45       | 4.12       |
-| 21   | 500.00       | 0.00       |
-| 42   | 490.25       | 5.30       |
-| 84   | 495.90       | 4.60       |
-
----
-
 ## 🧪 Experiments
 
 | Experiment | Description | Folder |
